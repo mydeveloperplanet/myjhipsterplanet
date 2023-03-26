@@ -23,7 +23,7 @@ relationship OneToOne {
 }
 
 relationship OneToMany {
-	Company to Customer{company},
+	Company to Customer{company}
 }
 
 relationship OneToOne {
