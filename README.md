@@ -1,5 +1,11 @@
 # myjhipsterplanet
 
+The corresponding blog post can be found here:
+
+https://mydeveloperplanet.com/2023/04/26/what-is-jhipster/
+
+# Default JHipster readme
+
 This application was generated using JHipster 7.9.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.9.3](https://www.jhipster.tech/documentation-archive/v7.9.3).
 
 ## Project Structure
